@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    font-size: 120px;
+}
+
+img{
+    border-radius: 100%;
+}
+
+img:hover{
+    background-color: yellow;
+}
+
+.a{
+    background-color: blueviolet;
+}
+
+.b{
+    background-color:green;
+}
+
+#head{
+    color: blue;
+}
